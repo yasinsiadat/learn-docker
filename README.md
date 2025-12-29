@@ -137,6 +137,18 @@ learn-docker/
 - Environment variables and secrets
 - Health checks and dependencies
 
+### 7. Storage / Volumes (Coming Soon)
+
+...
+
+### 8. Swarm Mode & Orchestration (Coming Soon)
+
+...
+
+### 9. Final Project (Coming Soon)
+
+...
+
 ## 💡 Learning Tips
 
 1. **Follow in order:** Each section builds on previous knowledge
